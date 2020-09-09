@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Helpdroid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_homee">Homee</string>
+    <string name="title_activity_contacts">contacts</string>
+    <string name="title_activity_home">Home</string>
+    <string name="delete_contact_request"> Delete this contact? </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_hospital">Map</string>
+</resources>
+
+

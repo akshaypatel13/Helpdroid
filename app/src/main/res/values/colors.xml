@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Actionbar colors-->
+    <color name="act_colorPrimary">#008577</color>
+    <color name="act_colorPrimaryDark">#00574B</color>
+    <color name="act_colorAccent">#FFFFFF</color>
+
+    <!-- Appintro colors-->
+    <color name="colorPrimary">#282F3B</color>
+    <color name="colorPrimaryDark">#282F3B</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4C84FF</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!-- Navigation View colors -->
+    <color name="nav_colorPrimary">#3F51B5</color>
+    <color name="nav_colorPrimaryDark">#303F9F</color>
+    <color name="nav_colorAccent">#FFffff</color>
+    <color name="bottom">#000000</color>
+    <color name="icon">#282F3B</color>
+
+    <!-- colors for tab and screent text -->
+    <color name="navigation_bottom">#696969</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+</resources>
